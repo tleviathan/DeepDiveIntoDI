@@ -1,0 +1,15 @@
+﻿<Application x:Class="DI.WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:DI.WPF.ViewModels"
+             xmlns:v="clr-namespace:DI.WPF.Views"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <DataTemplate DataType="{x:Type vm:CustomerViewModel}">
+            <v:CustomerView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:CustomerListViewModel}">
+            <v:CustomerListView/>
+        </DataTemplate>
+    </Application.Resources>
+</Application>

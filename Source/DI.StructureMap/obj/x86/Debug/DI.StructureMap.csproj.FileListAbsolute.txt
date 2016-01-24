@@ -1,0 +1,41 @@
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.StructureMap\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.StructureMap\bin\Debug\DI.StructureMap.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.StructureMap\bin\Debug\DI.StructureMap.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.StructureMap\bin\Debug\StructureMap.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.StructureMap\bin\Debug\StructureMap.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.StructureMap\bin\Debug\StructureMap.xml
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.StructureMap\obj\x86\Debug\DI.StructureMap.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.StructureMap\obj\x86\Debug\DI.StructureMap.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.StructureMap\bin\Debug\DI.StructureMap.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.StructureMap\bin\Debug\DI.StructureMap.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.StructureMap\bin\Debug\StructureMap.dll
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.StructureMap\bin\Debug\StructureMap.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.StructureMap\bin\Debug\StructureMap.xml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.StructureMap\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.StructureMap\obj\x86\Debug\DI.StructureMap.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.StructureMap\obj\x86\Debug\DI.StructureMap.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.StructureMap\bin\Debug\DI.StructureMap.exe
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.StructureMap\bin\Debug\DI.StructureMap.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.StructureMap\bin\Debug\StructureMap.dll
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.StructureMap\bin\Debug\StructureMap.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.StructureMap\bin\Debug\StructureMap.xml
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.StructureMap\obj\x86\Debug\DI.StructureMap.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.StructureMap\obj\x86\Debug\DI.StructureMap.exe
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.StructureMap\obj\x86\Debug\DI.StructureMap.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.StructureMap\bin\Debug\DI.StructureMap.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.StructureMap\bin\Debug\DI.StructureMap.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.StructureMap\bin\Debug\StructureMap.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.StructureMap\bin\Debug\StructureMap.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.StructureMap\bin\Debug\StructureMap.xml
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.StructureMap\obj\x86\Debug\DI.StructureMap.csprojResolveAssemblyReference.cache
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.StructureMap\obj\x86\Debug\DI.StructureMap.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.StructureMap\obj\x86\Debug\DI.StructureMap.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.StructureMap\bin\Debug\DI.StructureMap.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.StructureMap\bin\Debug\DI.StructureMap.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.StructureMap\bin\Debug\StructureMap.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.StructureMap\bin\Debug\StructureMap.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.StructureMap\obj\x86\Debug\DI.StructureMap.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.StructureMap\obj\x86\Debug\DI.StructureMap.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.StructureMap\obj\x86\Debug\DI.StructureMap.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.StructureMap\bin\Debug\StructureMap.Net4.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.StructureMap\bin\Debug\StructureMap.Net4.pdb

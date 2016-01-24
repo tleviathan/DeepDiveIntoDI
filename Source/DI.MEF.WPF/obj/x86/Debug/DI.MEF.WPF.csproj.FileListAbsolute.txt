@@ -1,0 +1,122 @@
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\bin\Debug\DI.MEF.WPF.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\bin\Debug\DI.MEF.WPF.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\MainWindow.baml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerListView.baml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerView.baml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\MainWindow.g.cs
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerListView.g.cs
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerView.g.cs
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\App.g.cs
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF_MarkupCompile.cache
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF_MarkupCompile.lref
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\App.baml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.g.resources
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.Properties.Resources.resources
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\bin\Debug\DI.MEF.WPF.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\bin\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\MainWindow.baml
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerListView.baml
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerView.baml
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\MainWindow.g.cs
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerListView.g.cs
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerView.g.cs
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\App.g.cs
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF_MarkupCompile.cache
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF_MarkupCompile.lref
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\App.baml
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.g.resources
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.Properties.Resources.resources
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.exe
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\bin\Debug\DI.MEF.WPF.exe
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\bin\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\MainWindow.baml
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerListView.baml
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerView.baml
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\MainWindow.g.cs
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerListView.g.cs
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerView.g.cs
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\App.g.cs
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF_MarkupCompile.cache
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF_MarkupCompile.lref
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\App.baml
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.g.resources
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.Properties.Resources.resources
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.csproj.GenerateResource.Cache
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.exe
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\bin\Debug\DI.MEF.WPF.exe
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\bin\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\MainWindow.baml
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerListView.baml
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerView.baml
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\MainWindow.g.cs
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerListView.g.cs
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerView.g.cs
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\App.g.cs
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF_MarkupCompile.cache
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF_MarkupCompile.lref
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\App.baml
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.g.resources
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.Properties.Resources.resources
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.csproj.GenerateResource.Cache
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.exe
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\bin\Debug\DI.MEF.WPF.exe
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\bin\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\MainWindow.baml
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerListView.baml
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerView.baml
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\MainWindow.g.cs
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerListView.g.cs
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerView.g.cs
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\App.g.cs
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF_MarkupCompile.cache
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF_MarkupCompile.lref
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\App.baml
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.g.resources
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.Properties.Resources.resources
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.csproj.GenerateResource.Cache
+F:\Presentations\Conferences\DevIntersections\2013-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.exe
+F:\Presentations\Conferences\DevIntersections\2013-LasVegas\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Conferences\VSLive\2013-Chicago\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.exe
+F:\Presentations\Conferences\VSLive\2013-Chicago\Dependency Injection\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\bin\Debug\DI.MEF.WPF.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\bin\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\MainWindow.baml
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerListView.baml
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerView.baml
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\MainWindow.g.cs
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerListView.g.cs
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\Views\CustomerView.g.cs
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\App.g.cs
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF_MarkupCompile.cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF_MarkupCompile.lref
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\App.baml
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.g.resources
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.Properties.Resources.resources
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.csproj.GenerateResource.Cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WPF\obj\x86\Debug\DI.MEF.WPF.pdb

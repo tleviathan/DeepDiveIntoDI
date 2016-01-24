@@ -1,0 +1,31 @@
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.NInject\bin\Debug\DI.NInject.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.NInject\bin\Debug\DI.NInject.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.NInject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.NInject\obj\x86\Debug\DI.NInject.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.NInject\obj\x86\Debug\DI.NInject.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.NInject\bin\Debug\Ninject.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.NInject\bin\Debug\Ninject.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.NInject\bin\Debug\Ninject.xml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.NInject\bin\Debug\DI.NInject.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.NInject\bin\Debug\DI.NInject.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.NInject\bin\Debug\Ninject.dll
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.NInject\bin\Debug\Ninject.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.NInject\bin\Debug\Ninject.xml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.NInject\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.NInject\obj\x86\Debug\DI.NInject.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.NInject\obj\x86\Debug\DI.NInject.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.NInject\bin\Debug\DI.NInject.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.NInject\bin\Debug\DI.NInject.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.NInject\bin\Debug\Ninject.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.NInject\bin\Debug\Ninject.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.NInject\bin\Debug\Ninject.xml
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.NInject\obj\x86\Debug\DI.NInject.csprojResolveAssemblyReference.cache
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.NInject\obj\x86\Debug\DI.NInject.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.NInject\obj\x86\Debug\DI.NInject.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.NInject\bin\Debug\DI.NInject.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.NInject\bin\Debug\DI.NInject.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.NInject\bin\Debug\Ninject.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.NInject\bin\Debug\Ninject.xml
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.NInject\obj\x86\Debug\DI.NInject.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.NInject\obj\x86\Debug\DI.NInject.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.NInject\obj\x86\Debug\DI.NInject.pdb

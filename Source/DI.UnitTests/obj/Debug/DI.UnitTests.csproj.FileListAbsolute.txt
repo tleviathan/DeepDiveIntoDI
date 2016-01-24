@@ -1,0 +1,29 @@
+F:\Presentations\Conferences\DevIntersections\2013-LasVegas\Dependency Injection\Source\DI.UnitTests\bin\Debug\DI.UnitTests.dll
+F:\Presentations\Conferences\DevIntersections\2013-LasVegas\Dependency Injection\Source\DI.UnitTests\bin\Debug\DI.UnitTests.pdb
+F:\Presentations\Conferences\DevIntersections\2013-LasVegas\Dependency Injection\Source\DI.UnitTests\bin\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Conferences\DevIntersections\2013-LasVegas\Dependency Injection\Source\DI.UnitTests\bin\Debug\Moq.dll
+F:\Presentations\Conferences\DevIntersections\2013-LasVegas\Dependency Injection\Source\DI.UnitTests\bin\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Conferences\DevIntersections\2013-LasVegas\Dependency Injection\Source\DI.UnitTests\bin\Debug\Moq.pdb
+F:\Presentations\Conferences\DevIntersections\2013-LasVegas\Dependency Injection\Source\DI.UnitTests\bin\Debug\Moq.xml
+F:\Presentations\Conferences\DevIntersections\2013-LasVegas\Dependency Injection\Source\DI.UnitTests\obj\Debug\DI.UnitTests.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevIntersections\2013-LasVegas\Dependency Injection\Source\DI.UnitTests\obj\Debug\DI.UnitTests.dll
+F:\Presentations\Conferences\DevIntersections\2013-LasVegas\Dependency Injection\Source\DI.UnitTests\obj\Debug\DI.UnitTests.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.UnitTests\bin\Debug\DI.UnitTests.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.UnitTests\bin\Debug\DI.UnitTests.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.UnitTests\bin\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.UnitTests\bin\Debug\Moq.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.UnitTests\bin\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.UnitTests\bin\Debug\Moq.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.UnitTests\bin\Debug\Moq.xml
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.UnitTests\obj\Debug\DI.UnitTests.csprojResolveAssemblyReference.cache
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.UnitTests\obj\Debug\DI.UnitTests.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.UnitTests\obj\Debug\DI.UnitTests.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.UnitTests\bin\Debug\DI.UnitTests.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.UnitTests\bin\Debug\DI.UnitTests.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.UnitTests\bin\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.UnitTests\bin\Debug\Moq.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.UnitTests\bin\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.UnitTests\bin\Debug\Moq.xml
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.UnitTests\obj\Debug\DI.UnitTests.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.UnitTests\obj\Debug\DI.UnitTests.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.UnitTests\obj\Debug\DI.UnitTests.pdb

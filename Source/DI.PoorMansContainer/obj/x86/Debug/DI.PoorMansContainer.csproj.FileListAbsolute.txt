@@ -1,0 +1,36 @@
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.PoorMansContainer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevIntersections\2013-LasVegas\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Conferences\DevIntersections\2013-LasVegas\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.csprojResolveAssemblyReference.cache
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Conferences\VSLive\2013-Chicago\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Conferences\VSLive\2013-Chicago\Dependency Injection\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.PoorMansContainer\bin\Debug\DI.PoorMansContainer.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.PoorMansContainer\obj\x86\Debug\DI.PoorMansContainer.pdb

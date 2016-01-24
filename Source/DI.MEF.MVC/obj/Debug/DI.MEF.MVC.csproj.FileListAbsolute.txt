@@ -1,0 +1,38 @@
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.MVC\bin\DI.MEF.MVC.dll
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.MVC\bin\DI.MEF.MVC.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.MVC\bin\EntityFramework.dll
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.MVC\bin\EntityFramework.xml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.MVC\obj\Debug\ResolveAssemblyReference.cache
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.MVC\obj\Debug\DI.MEF.MVC.dll
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.MVC\obj\Debug\DI.MEF.MVC.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.MVC\bin\DI.MEF.MVC.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.MVC\bin\DI.MEF.MVC.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.MVC\bin\EntityFramework.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.MVC\bin\EntityFramework.xml
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.MVC\obj\Debug\ResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.MVC\obj\Debug\DI.MEF.MVC.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.MVC\obj\Debug\DI.MEF.MVC.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.MVC\bin\DI.MEF.MVC.dll
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.MVC\bin\DI.MEF.MVC.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.MVC\bin\EntityFramework.dll
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.MVC\bin\EntityFramework.xml
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.MVC\obj\Debug\DI.MEF.MVC.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.MVC\obj\Debug\DI.MEF.MVC.dll
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF.MVC\obj\Debug\DI.MEF.MVC.pdb
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.MVC\bin\DI.MEF.MVC.dll
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.MVC\bin\DI.MEF.MVC.pdb
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.MVC\bin\EntityFramework.dll
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.MVC\bin\EntityFramework.xml
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.MVC\obj\Debug\DI.MEF.MVC.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.MVC\obj\Debug\DI.MEF.MVC.dll
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.MVC\obj\Debug\DI.MEF.MVC.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.MVC\bin\DI.MEF.MVC.dll.config
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.MVC\bin\DI.MEF.MVC.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.MVC\bin\DI.MEF.MVC.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.MVC\bin\EntityFramework.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.MVC\bin\EntityFramework.xml
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.MVC\obj\Debug\DI.MEF.MVC.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.MVC\obj\Debug\DI.MEF.MVC.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.MVC\obj\Debug\DI.MEF.MVC.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.MVC\bin\EntityFramework.SqlServer.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.MVC\bin\EntityFramework.SqlServer.xml

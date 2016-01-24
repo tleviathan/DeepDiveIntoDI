@@ -1,0 +1,24 @@
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Abstraction\bin\Debug\DI.Abstraction.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Abstraction\bin\Debug\DI.Abstraction.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Abstraction\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Abstraction\obj\x86\Debug\DI.Abstraction.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Abstraction\obj\x86\Debug\DI.Abstraction.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Abstraction\bin\Debug\DI.Abstraction.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Abstraction\bin\Debug\DI.Abstraction.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Abstraction\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Abstraction\obj\x86\Debug\DI.Abstraction.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Abstraction\obj\x86\Debug\DI.Abstraction.pdb
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Abstraction\obj\x86\Debug\DI.Abstraction.exe
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Abstraction\obj\x86\Debug\DI.Abstraction.pdb
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.Abstraction\obj\x86\Debug\DI.Abstraction.exe
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.Abstraction\obj\x86\Debug\DI.Abstraction.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Abstraction\bin\Debug\DI.Abstraction.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Abstraction\bin\Debug\DI.Abstraction.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Abstraction\obj\x86\Debug\DI.Abstraction.csprojResolveAssemblyReference.cache
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Abstraction\obj\x86\Debug\DI.Abstraction.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Abstraction\obj\x86\Debug\DI.Abstraction.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Abstraction\bin\Debug\DI.Abstraction.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Abstraction\bin\Debug\DI.Abstraction.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Abstraction\obj\x86\Debug\DI.Abstraction.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Abstraction\obj\x86\Debug\DI.Abstraction.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Abstraction\obj\x86\Debug\DI.Abstraction.pdb

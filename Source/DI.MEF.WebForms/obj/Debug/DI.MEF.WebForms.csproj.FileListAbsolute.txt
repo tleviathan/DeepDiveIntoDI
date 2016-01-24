@@ -1,0 +1,25 @@
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WebForms\bin\DI.MEF.WebForms.dll
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WebForms\bin\DI.MEF.WebForms.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WebForms\obj\Debug\ResolveAssemblyReference.cache
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WebForms\obj\Debug\DI.MEF.WebForms.dll
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF.WebForms\obj\Debug\DI.MEF.WebForms.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WebForms\bin\DI.MEF.WebForms.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WebForms\bin\DI.MEF.WebForms.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WebForms\obj\Debug\ResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WebForms\obj\Debug\DI.MEF.WebForms.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.WebForms\obj\Debug\DI.MEF.WebForms.pdb
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WebForms\bin\DI.MEF.WebForms.dll
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WebForms\bin\DI.MEF.WebForms.pdb
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WebForms\obj\Debug\DI.MEF.WebForms.dll
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.MEF.WebForms\obj\Debug\DI.MEF.WebForms.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.WebForms\bin\DI.MEF.WebForms.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.WebForms\bin\DI.MEF.WebForms.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.WebForms\obj\Debug\DI.MEF.WebForms.csprojResolveAssemblyReference.cache
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.WebForms\obj\Debug\DI.MEF.WebForms.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.WebForms\obj\Debug\DI.MEF.WebForms.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WebForms\bin\DI.MEF.WebForms.dll.config
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WebForms\bin\DI.MEF.WebForms.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WebForms\bin\DI.MEF.WebForms.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WebForms\obj\Debug\DI.MEF.WebForms.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WebForms\obj\Debug\DI.MEF.WebForms.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.WebForms\obj\Debug\DI.MEF.WebForms.pdb

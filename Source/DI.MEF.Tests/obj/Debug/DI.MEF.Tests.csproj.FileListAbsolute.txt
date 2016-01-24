@@ -1,0 +1,27 @@
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.Tests\obj\Debug\ResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.Tests\bin\Debug\DI.MEF.Tests.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.Tests\bin\Debug\DI.MEF.Tests.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.Tests\bin\Debug\DI.MEF.MVC.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.Tests\bin\Debug\DI.MEF.WPF.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.Tests\bin\Debug\DI.MEF.MVC.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.Tests\bin\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.Tests\obj\Debug\DI.MEF.Tests.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF.Tests\obj\Debug\DI.MEF.Tests.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.Tests\bin\Debug\DI.MEF.Tests.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.Tests\bin\Debug\DI.MEF.Tests.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.Tests\bin\Debug\DI.MEF.MVC.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.Tests\bin\Debug\DI.MEF.WPF.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.Tests\bin\Debug\DI.MEF.MVC.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.Tests\bin\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.Tests\obj\Debug\DI.MEF.Tests.csprojResolveAssemblyReference.cache
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.Tests\obj\Debug\DI.MEF.Tests.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF.Tests\obj\Debug\DI.MEF.Tests.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.Tests\bin\Debug\DI.MEF.Tests.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.Tests\bin\Debug\DI.MEF.Tests.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.Tests\bin\Debug\DI.MEF.MVC.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.Tests\bin\Debug\DI.MEF.WPF.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.Tests\bin\Debug\DI.MEF.MVC.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.Tests\bin\Debug\DI.MEF.WPF.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.Tests\obj\Debug\DI.MEF.Tests.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.Tests\obj\Debug\DI.MEF.Tests.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF.Tests\obj\Debug\DI.MEF.Tests.pdb

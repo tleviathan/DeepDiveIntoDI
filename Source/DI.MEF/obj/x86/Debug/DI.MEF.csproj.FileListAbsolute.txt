@@ -1,0 +1,37 @@
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF\bin\Debug\DI.MEF.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF\bin\Debug\DI.MEF.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF\obj\x86\Debug\DI.MEF.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF\obj\x86\Debug\DI.MEF.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF\bin\Debug\DI.MEF.Common.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF\bin\Debug\DI.MEF.TestLib.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF\bin\Debug\DI.MEF.Common.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.MEF\bin\Debug\DI.MEF.TestLib.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF\bin\Debug\DI.MEF.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF\bin\Debug\DI.MEF.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF\bin\Debug\DI.MEF.Common.dll
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF\bin\Debug\DI.MEF.TestLib.dll
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF\bin\Debug\DI.MEF.Common.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF\bin\Debug\DI.MEF.TestLib.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF\obj\x86\Debug\DI.MEF.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.MEF\obj\x86\Debug\DI.MEF.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF\obj\x86\Debug\DI.MEF.exe
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF\obj\x86\Debug\DI.MEF.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF\bin\Debug\DI.MEF.exe
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF\bin\Debug\DI.MEF.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF\bin\Debug\DI.MEF.Common.dll
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF\bin\Debug\DI.MEF.TestLib.dll
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF\bin\Debug\DI.MEF.Common.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF\bin\Debug\DI.MEF.TestLib.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.MEF\obj\x86\Debug\DI.MEF.csprojResolveAssemblyReference.cache
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF\bin\Debug\DI.MEF.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF\bin\Debug\DI.MEF.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF\obj\x86\Debug\DI.MEF.csprojResolveAssemblyReference.cache
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF\obj\x86\Debug\DI.MEF.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.MEF\obj\x86\Debug\DI.MEF.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF\bin\Debug\DI.MEF.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF\bin\Debug\DI.MEF.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF\obj\x86\Debug\DI.MEF.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF\obj\x86\Debug\DI.MEF.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.MEF\obj\x86\Debug\DI.MEF.pdb

@@ -1,0 +1,29 @@
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Coupled\bin\Debug\DI.Coupled.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Coupled\bin\Debug\DI.Coupled.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Coupled\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Coupled\bin\Debug\DI.Coupled.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Coupled\bin\Debug\DI.Coupled.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Coupled\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.exe
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.Coupled\bin\Debug\DI.Coupled.exe
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.Coupled\bin\Debug\DI.Coupled.pdb
+F:\Presentations\Conferences\DevReach\2012-Bulgaria\Dependency Injection\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.exe
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.pdb
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.exe
+F:\Presentations\Conferences\VSLive\2013-Las Vegas\Dependency Injection\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Coupled\bin\Debug\DI.Coupled.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Coupled\bin\Debug\DI.Coupled.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.csprojResolveAssemblyReference.cache
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Coupled\bin\Debug\DI.Coupled.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Coupled\bin\Debug\DI.Coupled.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Coupled\obj\x86\Debug\DI.Coupled.pdb

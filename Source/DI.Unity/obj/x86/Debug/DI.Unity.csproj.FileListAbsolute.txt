@@ -1,0 +1,73 @@
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Unity\bin\Debug\DI.Unity.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Unity\bin\Debug\DI.Unity.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Unity\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Unity\obj\x86\Debug\DI.Unity.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Unity\obj\x86\Debug\DI.Unity.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.xml
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Unity\bin\Debug\DI.Unity.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Unity\bin\Debug\DI.Unity.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.xml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Unity\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Unity\obj\x86\Debug\DI.Unity.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.Unity\obj\x86\Debug\DI.Unity.pdb
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Unity\obj\x86\Debug\DI.Unity.exe
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Unity\obj\x86\Debug\DI.Unity.pdb
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Unity\bin\Debug\DI.Unity.exe
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Unity\bin\Debug\DI.Unity.pdb
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.xml
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\Presentations\Conferences\DevIntersections\2012-LasVegas\Dependency Injection\Source\DI.Unity\obj\x86\Debug\DI.Unity.csprojResolveAssemblyReference.cache
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Unity\bin\Debug\DI.Unity.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Unity\bin\Debug\DI.Unity.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.xml
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Unity\obj\x86\Debug\DI.Unity.csprojResolveAssemblyReference.cache
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Unity\obj\x86\Debug\DI.Unity.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.Unity\obj\x86\Debug\DI.Unity.pdb
+F:\Presentations\Conferences\DevReach\2013-Bulgaria\Dependency Injection\Source\DI.Unity\obj\x86\Debug\DI.Unity.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevReach\2013-Bulgaria\Dependency Injection\Source\DI.Unity\obj\x86\Debug\DI.Unity.exe
+F:\Presentations\Conferences\DevReach\2013-Bulgaria\Dependency Injection\Source\DI.Unity\bin\Debug\DI.Unity.exe.config
+F:\Presentations\Conferences\DevReach\2013-Bulgaria\Dependency Injection\Source\DI.Unity\bin\Debug\DI.Unity.exe
+F:\Presentations\Conferences\DevReach\2013-Bulgaria\Dependency Injection\Source\DI.Unity\bin\Debug\DI.Unity.pdb
+F:\Presentations\Conferences\DevReach\2013-Bulgaria\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Presentations\Conferences\DevReach\2013-Bulgaria\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\Presentations\Conferences\DevReach\2013-Bulgaria\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Presentations\Conferences\DevReach\2013-Bulgaria\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Presentations\Conferences\DevReach\2013-Bulgaria\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Presentations\Conferences\DevReach\2013-Bulgaria\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.xml
+F:\Presentations\Conferences\DevReach\2013-Bulgaria\Dependency Injection\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\Presentations\Conferences\DevReach\2013-Bulgaria\Dependency Injection\Source\DI.Unity\obj\x86\Debug\DI.Unity.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Unity\bin\Debug\DI.Unity.exe.config
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Unity\bin\Debug\DI.Unity.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Unity\bin\Debug\DI.Unity.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.xml
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Unity\obj\x86\Debug\DI.Unity.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Unity\obj\x86\Debug\DI.Unity.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Unity\obj\x86\Debug\DI.Unity.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.Unity\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml

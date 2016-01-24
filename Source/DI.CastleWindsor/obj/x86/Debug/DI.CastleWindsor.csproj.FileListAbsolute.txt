@@ -1,0 +1,37 @@
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.CastleWindsor\bin\Debug\DI.CastleWindsor.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.CastleWindsor\bin\Debug\DI.CastleWindsor.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.CastleWindsor\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.CastleWindsor\obj\x86\Debug\DI.CastleWindsor.exe
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.CastleWindsor\obj\x86\Debug\DI.CastleWindsor.pdb
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.CastleWindsor\bin\Debug\Castle.Core.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.CastleWindsor\bin\Debug\Castle.Windsor.dll
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.CastleWindsor\bin\Debug\Castle.Core.xml
+F:\Presentations\Conferences\DevConnections\2012-Las Vegas\Dependency Injection\Source\DI.CastleWindsor\bin\Debug\Castle.Windsor.xml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.CastleWindsor\bin\Debug\DI.CastleWindsor.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.CastleWindsor\bin\Debug\DI.CastleWindsor.pdb
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.CastleWindsor\bin\Debug\Castle.Core.dll
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.CastleWindsor\bin\Debug\Castle.Windsor.dll
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.CastleWindsor\bin\Debug\Castle.Core.xml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.CastleWindsor\bin\Debug\Castle.Windsor.xml
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.CastleWindsor\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.CastleWindsor\obj\x86\Debug\DI.CastleWindsor.exe
+F:\Publications\The Developer (Norway)\Understanding Dependency Injection & Those Pesky Containers\Source\DI.CastleWindsor\obj\x86\Debug\DI.CastleWindsor.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.CastleWindsor\bin\Debug\DI.CastleWindsor.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.CastleWindsor\bin\Debug\DI.CastleWindsor.pdb
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.CastleWindsor\bin\Debug\Castle.Core.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.CastleWindsor\bin\Debug\Castle.Windsor.dll
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.CastleWindsor\bin\Debug\Castle.Core.xml
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.CastleWindsor\bin\Debug\Castle.Windsor.xml
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.CastleWindsor\obj\x86\Debug\DI.CastleWindsor.csprojResolveAssemblyReference.cache
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.CastleWindsor\obj\x86\Debug\DI.CastleWindsor.exe
+F:\Presentations\Code Camps\Philly 2013.1\Dependency Injection\Source\DI.CastleWindsor\obj\x86\Debug\DI.CastleWindsor.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.CastleWindsor\bin\Debug\DI.CastleWindsor.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.CastleWindsor\bin\Debug\DI.CastleWindsor.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.CastleWindsor\bin\Debug\Castle.Core.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.CastleWindsor\bin\Debug\Castle.Windsor.dll
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.CastleWindsor\bin\Debug\Castle.Core.xml
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.CastleWindsor\bin\Debug\Castle.Windsor.xml
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.CastleWindsor\obj\x86\Debug\DI.CastleWindsor.csprojResolveAssemblyReference.cache
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.CastleWindsor\obj\x86\Debug\DI.CastleWindsor.exe
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.CastleWindsor\obj\x86\Debug\DI.CastleWindsor.pdb
+F:\Presentations\Conferences\Tech-Ed\2014-USA\Deep Dive into DI\Source\DI.CastleWindsor\bin\Debug\DI.CastleWindsor.exe.config
